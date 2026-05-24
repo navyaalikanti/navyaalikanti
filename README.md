@@ -70,6 +70,4 @@ Dec 2025 - Jan 2026
 * Learned front-end and back-end development workflows
 * Explored best practices in writing clean code
 * Observed real-world software development processes
-## Connect
 
-[LinkedIn](linkedin.com/in/navyaalikanti)
