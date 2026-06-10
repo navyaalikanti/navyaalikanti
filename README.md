@@ -60,9 +60,9 @@ I am a B.Tech student interested in software development, AI applications, and b
 ## Let's Connect
 
 <p align="left">
-  <a href="mailto:navyaalikanti@gmail.com">
+  <!-- <a href="mailto:navyaalikanti@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" />
-  </a>
+  </a> -->
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/navyaalikanti">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
