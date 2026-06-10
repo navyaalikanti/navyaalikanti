@@ -2,7 +2,6 @@
 
 I am a B.Tech student interested in software development, AI applications, and building real-world solutions through hands-on projects. I enjoy turning ideas into working systems and continuously learning new technologies through projects, hackathons, and practical experiences. My interests include Python development, AI/ML, GUI design, and full-stack web development. Currently seeking opportunities to apply my skills in real-world projects, internships, and collaborative tech initiatives.
 
----
 
 ## Skills
 
@@ -58,16 +57,25 @@ I am a B.Tech student interested in software development, AI applications, and b
 </tr>
 </table>
 
----
-## Experience
+## Let's Connect
 
-### Winter Intern
-**IIT Ropar**
+<p align="left">
+  <a href="mailto:navyaalikanti@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/navyaalikanti">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/navyaalikanti">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/navyaalikanti">
+    <img src="https://cdn.simpleicons.org/codechef" width="50" />
+  </a>
+</p>
 
-Dec 2025 - Jan 2026
 
-* Gained foundational understanding of MERN stack concepts
-* Learned front-end and back-end development workflows
-* Explored best practices in writing clean code
-* Observed real-world software development processes
 
