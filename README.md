@@ -8,11 +8,15 @@
 
 ---
 
-### About Me
+<h3>About Me</h3>
+
+<img align="right" alt="coding" width="250" src="navya.jpeg">
 
 I am a B.Tech student interested in **software development, AI applications, and building real-world solutions** through hands-on projects. I enjoy turning ideas into working systems and continuously learning new technologies through projects, hackathons, and practical experiences.
 
 My interests include **Python development, AI/ML, GUI design, and full-stack web development**. Currently seeking opportunities to apply my skills in real-world projects, internships, and collaborative tech initiatives.
+
+<br clear="right"/>
 
 ---
 
