@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Hi%20There!%20I'm%20Navya%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20Student%20%7C%20Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Turning+ideas+into+working+systems...;Exploring+AI%2FML+and+Full-Stack+Development;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Student+at+Vasavi+College+of+Engineering;Turning+ideas+into+working+systems...;Exploring+AI%2FML+and+Full-Stack+Development;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@ My interests include **Python development, AI/ML, GUI design, and full-stack web
 
 ---
 
-###  Skills
+### Skills
 
 <table align="center">
 <tr>
@@ -79,9 +79,3 @@ My interests include **Python development, AI/ML, GUI design, and full-stack web
     <img src="https://cdn.simpleicons.org/codechef" width="50" />
   </a>
 </p>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer"/>
-
-</div>
