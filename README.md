@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0F172A%2C100%3A1E293B&height=200&text=Hi%20There%2C%20I%27m%20Navya&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Student+at+Vasavi+College+of+Engineering;Turning+ideas+into+working+systems...;Exploring+AI%2FML+and+Full-Stack+Development;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Student+at+Vasavi+College+of+Engineering;Turning+ideas+into+working+systems...;Exploring+AI%2FML+and+Full-Stack+Development;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 </div>
 
