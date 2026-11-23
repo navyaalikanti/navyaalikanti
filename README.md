@@ -61,9 +61,6 @@ My interests include **Python development, AI/ML, GUI design, and full-stack web
 </tr>
 </table>
 
----
-
-### Currently Learning
 
 <table align="center">
 <tr>
